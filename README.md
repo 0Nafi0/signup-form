@@ -48,7 +48,7 @@ project-folder/
 
 ## Screenshots
 
-![Signup Form Screenshot](assets/fern.jpg)
+![Signup Form Screenshot](assets/screenshot.png)
 
 ## Future Enhancements
 
